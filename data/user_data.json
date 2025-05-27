@@ -1,0 +1,88 @@
+{
+  "696331695493873717": {
+    "money": 0,
+    "level": 1,
+    "exp": 0,
+    "inventory": [],
+    "last_daily": null,
+    "item": "",
+    "total_online": 0,
+    "last_online": null,
+    "join_date": "2025-05-27T08:22:23.509211+00:00",
+    "command_usage": 0
+  },
+  "744047956424130709": {
+    "money": 60,
+    "level": 1,
+    "exp": 25,
+    "inventory": [
+      "💎 เพชรเล็ก"
+    ],
+    "last_daily": "2025-05-27T08:26:38.740283+00:00",
+    "item": "มีแฟน",
+    "total_online": 0,
+    "last_online": null,
+    "join_date": "2025-05-27T08:22:39.761574+00:00",
+    "command_usage": 9
+  },
+  "847770564525162546": {
+    "money": 0,
+    "level": 1,
+    "exp": 0,
+    "inventory": [],
+    "last_daily": null,
+    "item": "",
+    "total_online": 0,
+    "last_online": null,
+    "join_date": "2025-05-27T08:24:13.210598+00:00",
+    "command_usage": 0
+  },
+  "684773505157431347": {
+    "money": 0,
+    "level": 1,
+    "exp": 0,
+    "inventory": [],
+    "last_daily": null,
+    "item": "",
+    "total_online": 0,
+    "last_online": null,
+    "join_date": "2025-05-27T08:25:07.098976+00:00",
+    "command_usage": 0
+  },
+  "1027817176008228955": {
+    "money": 0,
+    "level": 1,
+    "exp": 0,
+    "inventory": [],
+    "last_daily": null,
+    "item": "",
+    "total_online": 41,
+    "last_online": "2025-05-27T09:04:34.967443+00:00",
+    "join_date": "2025-05-27T08:41:22.501365+00:00",
+    "command_usage": 0
+  },
+  "664508672713424926": {
+    "money": 0,
+    "level": 1,
+    "exp": 0,
+    "inventory": [],
+    "last_daily": null,
+    "item": "",
+    "total_online": 0,
+    "last_online": null,
+    "join_date": "2025-05-27T08:46:49.951692+00:00",
+    "command_usage": 0
+  },
+  "276060004262477825": {
+    "money": 0,
+    "level": 1,
+    "exp": 0,
+    "inventory": [],
+    "last_daily": null,
+    "item": "",
+    "total_online": 0,
+    "last_online": null,
+    "join_date": "2025-05-27T08:58:23.994770+00:00",
+    "command_usage": 0
+  }
+}

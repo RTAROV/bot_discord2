@@ -1,0 +1,277 @@
+{
+    "987654321": {
+        "money": 500,
+        "level": 3,
+        "exp": 80,
+        "inventory": [
+            "กล่องลึกลับ",
+            "พลังฟื้นฟู"
+        ],
+        "last_daily": "2025-05-22"
+    },
+    "123456789": {
+        "money": 1200,
+        "level": 10,
+        "exp": 300,
+        "inventory": [],
+        "last_daily": "2025-05-21"
+    },
+    "767007003196260372": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "1172749927525392486": {
+        "item": "",
+        "money": 0,
+        "total_online": 1093,
+        "last_online": null
+    },
+    "744047956424130709": {
+        "item": "มีแฟน",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "997409378116313109": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "684773505157431347": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-24T03:43:15.737975"
+    },
+    "1015428696632459325": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "978606805682880572": {
+        "item": "",
+        "money": 0,
+        "total_online": 5074,
+        "last_online": null
+    },
+    "1359185994221621338": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "847770564525162546": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-24T03:44:30.926274"
+    },
+    "1132468255072727080": {
+        "item": "",
+        "money": 0,
+        "total_online": 1503,
+        "last_online": null
+    },
+    "1019227681096728576": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "664508672713424926": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-24T02:17:19.314224"
+    },
+    "794547398838976514": {
+        "item": "",
+        "money": 0,
+        "total_online": 1097,
+        "last_online": null
+    },
+    "877434846824243210": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "432686113576976394": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-24T02:15:52.190997"
+    },
+    "864376402987057193": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "814274633871523841": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "881730994732924960": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "276060004262477825": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-24T01:59:59.358910"
+    },
+    "412347257233604609": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-23T10:29:31.391178"
+    },
+    "411916947773587456": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-23T10:30:30.116593"
+    },
+    "1052931661844721714": {
+        "item": "",
+        "money": 0,
+        "total_online": 721,
+        "last_online": null
+    },
+    "1235202673721212961": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "1027817176008228955": {
+        "item": "",
+        "money": 0,
+        "total_online": 7723,
+        "last_online": null
+    },
+    "1092789878481231984": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "696331695493873717": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-24T02:42:59.397950"
+    },
+    "916546220485378059": {
+        "item": "",
+        "money": 0,
+        "total_online": 2,
+        "last_online": null
+    },
+    "701666821325193287": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "1299399453815341169": {
+        "item": "",
+        "money": 0,
+        "total_online": 12734,
+        "last_online": null
+    },
+    "1246441315080863754": {
+        "item": "",
+        "money": 0,
+        "total_online": 115,
+        "last_online": null
+    },
+    "1209412434801066018": {
+        "item": "",
+        "money": 0,
+        "total_online": 877,
+        "last_online": null
+    },
+    "1087185706880868363": {
+        "item": "",
+        "money": 0,
+        "total_online": 346,
+        "last_online": null
+    },
+    "1231193339815264316": {
+        "item": "",
+        "money": 0,
+        "total_online": 7076,
+        "last_online": null
+    },
+    "1036619877240291359": {
+        "item": "",
+        "money": 0,
+        "total_online": 802,
+        "last_online": null
+    },
+    "822981583832612904": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": "2025-05-23T13:23:32.650874"
+    },
+    "1250450760169427064": {
+        "item": "",
+        "money": 0,
+        "total_online": 16,
+        "last_online": null
+    },
+    "1331226782015426735": {
+        "item": "",
+        "money": 0,
+        "total_online": 337,
+        "last_online": null
+    },
+    "889147123738751067": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "1165687165943021641": {
+        "item": "",
+        "money": 0,
+        "total_online": 99,
+        "last_online": null
+    },
+    "867362179526033470": {
+        "item": "",
+        "money": 0,
+        "total_online": 22,
+        "last_online": null
+    },
+    "863099001447776266": {
+        "item": "",
+        "money": 0,
+        "total_online": 0,
+        "last_online": null
+    },
+    "1142410536416464927": {
+        "item": "",
+        "money": 0,
+        "total_online": 85,
+        "last_online": null
+    },
+    "1324327486401810449": {
+        "item": "",
+        "money": 0,
+        "total_online": 119,
+        "last_online": null
+    }
+}
